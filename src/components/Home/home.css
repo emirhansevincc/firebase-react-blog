@@ -1,0 +1,30 @@
+.texts-container{
+    background-color: #111;
+    margin: 15px;
+    width: 60%;
+    
+}
+.main-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.author{margin-top: 10px;}
+.body{margin-top: 10px;}
+.header{margin-top: 10px;}
+.icon{
+    margin: 10px 0 0 10px;
+}
+.texts-container{
+    padding: 15px;
+    border-radius: 15px;
+}
+.icon i{
+    cursor: pointer;
+    color: #fff;
+}
+.icon button{
+    background-color: transparent;
+    border: none;
+}
